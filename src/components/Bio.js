@@ -30,9 +30,11 @@ function Bio() {
                 and knowledge needed to become an expert in my field!
               </p>
               <p class="bold">
-                Skills & Languages learned include: HTML5, CSS3, Javascript,
-                JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express,
-                Handelbars.js & ReactJS.
+                Skills & Languages learned include: ReactJS, Node.Js, Express,
+                JavaScript, jQuery, JSX, GIT, GitHub, MongoDB, MySQL, Mongoose,
+                Handlebars, HTML5, CSS3, Bootstrap & React Bootstrap, Foundation
+                CSS, APIs, Heroku, Terminal, Inquirer, AJAX, Axios, Multer,
+                Restful API, ES6, JSON, Sequelize
               </p>
               <p>
                 Please use the following links to find out more regarding my
