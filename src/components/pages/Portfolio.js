@@ -4,16 +4,12 @@ import Footer from "../Footer";
 import Projects from "../Projects";
 
 function Portfolio() {
-
-    return (
-      <>
-      <Projects /> 
+  return (
+    <>
+      <Projects />
       <Footer />
-      </>
-    );
-  }
-
-
-
+    </>
+  );
+}
 
 export default Portfolio;

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Contact.css";
-import JonnyPDF from '../components/images/Jonathen_Talbott_Resume.pdf';
-import contact from '../components/images/contact.jpg';
+import JonnyPDF from "../components/images/Jonathen_Talbott_Resume.pdf";
+import contact from "../components/images/contact.jpg";
 
 function ContactInfo() {
   return (
@@ -11,7 +11,7 @@ function ContactInfo() {
           <div class="row">
             <div class="col-sm-5 left-main">
               <div class="photo">
-                <img class="propic" src={contact} alt=""/>
+                <img class="propic" src={contact} alt="" />
               </div>
             </div>
 
@@ -49,9 +49,10 @@ function ContactInfo() {
               >
                 GitHub
               </a>
-              <a 
-              href={JonnyPDF}download="Talbott-resume" 
-              class="btn btn-lg btn-outline-light"
+              <a
+                href={JonnyPDF}
+                download="Talbott-resume"
+                class="btn btn-lg btn-outline-light"
               >
                 Resume
               </a>

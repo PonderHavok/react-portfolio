@@ -1,12 +1,11 @@
 import React from "react";
-import './Projects.css';
+import "./Projects.css";
 import PGImg from "./images/passgen.png";
 import employeeImg from "./images/Employ.png";
 import ghImg from "./images/GH.png";
 import weatherImg from "./images/weather.png";
 import R4MImg from "./images/R4M.png";
 import workImg from "./images/WorkDay.png";
-
 
 function Projects() {
   return (
@@ -22,9 +21,7 @@ function Projects() {
           </div>
           <div class="row projects">
             <div class="col-sm">
-              <h4>
-                GameHaven
-              </h4>
+              <h4>GameHaven</h4>
               <a
                 href="https://github.com/PonderHavok/gaming-dashboard"
                 target="GameHaven Repo"

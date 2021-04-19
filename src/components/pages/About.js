@@ -5,10 +5,10 @@ import Footer from "../Footer";
 
 function About() {
   return (
-  <>
-    <Bio />
-    <Footer />
-  </>
+    <>
+      <Bio />
+      <Footer />
+    </>
   );
 }
 
