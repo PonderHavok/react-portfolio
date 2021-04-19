@@ -14,15 +14,21 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src="images/contact.jpg"
-              text="A quick Bio."
-              label="About Me"
-              path="/about"
+              text="All ways to get in touch with me."
+              label="Contact Me"
+              path="/contact"
             />
             <CardItem
               src="images/port.jpg"
               text="Here are just a few examples besides of my abilities."
               label="Coding Skills"
               path="/portfolio"
+            />
+              <CardItem
+              src="images/about.jpg"
+              text="A brief description about myself."
+              label="About Me"
+              path="/about"
             />
           </ul>
         </div>

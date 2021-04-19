@@ -18,12 +18,11 @@ function Bio() {
             <div class="col-sm-5 right-main">
               <h2>About Me</h2>
               <p>
-                Working to turn my passion for technology into a career as a
+              I'm Jonathen Talbott (Jonny for short). Working to turn my passion for technology into a career as a
                 full stack web developer.
               </p>
               <p class="bold">
-                Currently Specializing in UI/UX & Javascript and familiar with
-                building full stack applications.
+                Completing a Certificate in Web Development from Butler University in April 2021.
               </p>
               <p>
                 Leveraging Butler University's bootcamp I am gaining the skills
